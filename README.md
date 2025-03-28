@@ -59,6 +59,13 @@ Let me know if you'd like a version with images, clickable badges (e.g., Java ve
 
 
 
+## 💬 Contact & Questions
+
+If you have any questions, suggestions, or feedback — feel free to start a discussion:
+
+👉 [Start a Discussion](https://github.com/TrueNFalse2/BankProjectJava/discussions)
+
+I'd be happy to hear from you!
 
 
 
